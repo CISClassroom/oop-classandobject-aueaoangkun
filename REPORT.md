@@ -6,6 +6,7 @@
 package com.company;
 
 public class IronMan {
+
     public class IronManRedGrey
     {
         String model;
@@ -56,6 +57,7 @@ public class IronMan {
 package com.company;
 
 public class Tree {
+
     int[] photosynthesis(int carbon , int water){
         int Glucose = water/2 ;
         int Water = water/2 ;
@@ -73,6 +75,7 @@ package com.company;
 
 public class TreeObject
 {
+
     public class Tree
     {
         String name;
